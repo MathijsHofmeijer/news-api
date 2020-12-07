@@ -1,0 +1,37 @@
+
+
+#customername{
+    font: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+}
+
+.search{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+#container{
+    position: absolute;
+    top: 40%; 
+}
+#button{
+    background:linear-gradient(120deg,red,#111111) ;
+    color: white;
+    height: 50px;
+    width: 300px;
+    border: 5px solid black;
+    margin: 5px;
+}
+#label{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin: 5px;
+    font-weight: bolder;
+}
+#inputtt{
+    height: 50px;
+    width: 300px;
+    margin: 5px;
+    text-align: center;
+}
